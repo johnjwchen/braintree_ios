@@ -6,8 +6,6 @@
 	<string>12C60</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
-	<key>CFBundleExecutable</key>
-	<string>BraintreeResources</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.venmo.BraintreeResources</string>
 	<key>CFBundleInfoDictionaryVersion</key>
